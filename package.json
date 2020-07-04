@@ -1,0 +1,21 @@
+{
+  "name": "nickdenardis.com",
+  "version": "1.0.0",
+  "description": "Nick DeNardis blog",
+  "main": "index.html",
+  "scripts": {
+    "dev": ".vuepress/node_modules/.bin/vuepress dev",
+    "build": ".vuepress/node_modules/.bin/vuepress build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdenardis/nickdenardis.com.git"
+  },
+  "author": "Nick DeNardis <nick.denardis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickdenardis/nickdenardis.com/issues"
+  },
+  "homepage": "https://github.com/nickdenardis/nickdenardis.com#readme"
+}

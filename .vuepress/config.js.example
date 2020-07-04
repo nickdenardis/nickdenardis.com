@@ -1,0 +1,40 @@
+const path = require('path')
+
+module.exports = {
+  title: 'My Blog is alive!',
+  description: 'This is my new beautiful blog',
+  theme: 'canvas',
+  themeConfig: {
+    // Assumes GitHub. Can also be a full GitLab url.
+    repo: 'whoan/vuepress-theme-canvas',
+
+    // Optional options for generating "Edit this page" link
+
+    // if your docs are in a different repo from your main project:
+    docsRepo: 'your_user/your_docs_repo',
+    // defaults to true, set to false to disable
+    editLinks: true,
+    // custom text for edit link. Defaults to "Edit this page"
+    editLinkText: 'Edit this page!',
+
+    // custom property to show links about you
+    usefulLinks: [
+      {
+        href: 'https://twitter.com/your_username',
+        cssIcon: 'fa fa-fw fa-twitter'
+      },
+      {
+        href: 'https://stackoverflow.com/cv/your_username',
+        cssIcon: 'fa fa-fw fa-stack-overflow'
+      },
+      {
+        href: 'https://github.com/your_username',
+        cssIcon: 'fa fa-fw fa-github'
+      },
+      {
+        href: 'https://www.linkedin.com/in/your_username',
+        cssIcon: 'fa fa-fw fa-linkedin'
+      }
+    ]
+  }
+}

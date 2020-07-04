@@ -1,0 +1,51 @@
+---
+title: "[What I'm Reading] The responsive edition"
+lastModified: "2012-09-23"
+---
+
+It's been more time than usual since I've posted a "Friday Links" so this weekend when I found myself at RSS zero I thought it would be a good opportunity to rebrand and post "what I'm reading." The idea behind Friday Links was far more than just a list of links that were published during the week, these links were able to catch my full attention, which is hard to do with the schedule I have.
+
+The last few weeks have exploded the responsive concept in to a full blown science, even Google Analytics is getting involved with reporting on hard numbers. The links below represent what I've been paying attention to and what I feel you should at least take a glance at. Enjoy.
+
+- [Reponse to Journey to Universal Accessibility–Part 1](http://feedproxy.google.com/~r/WebAxe/~3/3TtJe4vMUTM/reponse-to-journey-to-universal.html)
+- [An Event Apart: What’s Your Problem?](http://feedproxy.google.com/~r/FunctioningForm/~3/-JzWxuhBNiI/entry.asp)
+- [Being Real Builds Trust](http://www.alistapart.com/articles/being-real-builds-trust/)
+- [Usable yet Useless: Why Every Business Needs Product Discovery](http://www.alistapart.com/articles/usable-yet-useless-why-every-business-needs-product-discovery/)
+- [Duke Admissions Redesign: 5 Key Goals](http://feedproxy.google.com/~r/VigetBlog/~3/PTfubc4HMw8/duke-admissions-redesign-5-key-goals)
+- [An Event Apart: Responsive Design Workflow](http://feedproxy.google.com/~r/FunctioningForm/~3/UAJOSAy4EhM/entry.asp)
+- [Responsive Retrofitting](https://github.com/sparkbox/Responsive-Retrofitting)
+- [An Event Apart: Designing Meetings to Work](http://feedproxy.google.com/~r/FunctioningForm/~3/tGT_qtOKFM0/entry.asp)
+- [An Event Apart: Properties of Intuitive Web Pages](http://feedproxy.google.com/~r/FunctioningForm/~3/4ofaKfoWpN0/entry.asp)
+- [Responsive Web Above The Fold](http://css-tricks.com/responsive-web-above-the-fold/)
+- [Lawson on picture element](http://www.zeldman.com/2012/08/27/lawson-on-picture-element/)
+- [position: sticky;](http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit)
+- [Data Monday: Mobile Email Open vs. Click Through Rates](http://feedproxy.google.com/~r/FunctioningForm/~3/6Ua2IKORQUY/entry.asp)
+- [Ability to Steer Company Culture With a Single Word by Relentlessly Repeating It](http://feedproxy.google.com/~r/VigetBlog/~3/zVCkJEV6TIg/ability-to-steer-company-culture-with-a-single-word-by-relentlessly-repeati)
+- [How To: Advanced rel="canonical" HTTP Headers](http://www.seomoz.org/ugc/how-to-advanced-relcanonical-http-headers)
+- [An Event Apart 2013](http://meyerweb.com/eric/thoughts/2012/09/10/an-event-apart-2013/)
+- [.htaccess Made Easy](http://htaccessbook.com/)
+- [“Stacking” Responsive Pattern](http://neilcarpenter.com/demos/stack-menu/)
+- [Announcing Social Works: A Resource for Developing Effective Social Media Campaigns in #HigherEd](http://feedproxy.google.com/~r/bloghighed/~3/tir086khbTc/)
+- [Google Releases Open-Source Online-Education Software](http://chronicle.com/blogs/wiredcampus/google-releases-open-source-online-education-software/39882)
+- [How to Create Content Maps for Planning Your Website’s Content](http://feedproxy.google.com/~r/SixRevisions/~3/eC_8-103Te4/)
+- [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)
+- [Do Good Design with David Berman](http://www.peachpit.com/podcasts/episode.aspx?e=f9770c14-1c89-4333-ba19-1d83e32d1f70)
+- [Todd Parker, Patty Toland and Scott Jehl Discuss Progressive Enhancement and Web Design](http://www.peachpit.com/episode.aspx?e=7f3b1d98-a744-45f3-97f2-e8932ef4d468)
+- [Steve Krug Discusses Usability](http://www.peachpit.com/podcasts/episode.aspx?e=eced0b44-a873-4e54-970d-efdf5c030637)
+- [Colleen Jones Discusses Content Strategy](http://www.peachpit.com/podcasts/episode.aspx?e=0ff52b1e-1f5a-472b-8f77-459c5076162a)
+- [Tell CSS that JavaScript is available ASAP](http://www.456bereastreet.com/archive/201209/tell_css_that_javascript_is_available_asap/)
+- [“In closing. Not good.”](http://cameronmoll.tumblr.com/post/31520251203)
+- [VIDEO: Neil deGrasse Tyson explains why words, names…](http://feedproxy.google.com/~r/37signals/beMH/~3/ImFbzas7_W4/3259-neil-degrasse-tyson-explains-why-words-names)
+- [6 Sublime Text features/enhancements that I've discovered in the past 5 hours using the app](http://feedproxy.google.com/~r/LessEverything/~3/Q99aF2-Mtjk/)
+- [Book Review - "Communicating the User Experience"](http://feedproxy.google.com/~r/UXM/~3/GfVJiuRub_s/book-review-communicating-the-user-experience)
+- [mStoner Jobs: Creative Director Opening](http://feedproxy.google.com/~r/bloghighed/~3/Ln35BBWiVU0/)
+- [Going Responsive: How UC San Diego Did It](http://link.highedweb.org/2012/09/uc-sandiego-responsive/)
+- [Are Comments on Websites Effective?](https://webpub.mit.edu/2012/09/comments/?utm_source=rss&utm_medium=rss&utm_campaign=comments)
+- [How to Evaluate a UX Designer for Your Company, or, What Makes a Great User Experience Designer](http://feedproxy.google.com/~r/whitneyhess/~3/4B5g4ftEFUA/)
+- [The simple power of one a day](http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/1G9eru3laLw/the-simple-power-of-one-a-day.html)
+- [TED: Timothy Prestero: Design for people, not awards - Timothy Prestero (2012)](http://www.ted.com/talks/timothy_prestero_design_for_people_not_awards.html)
+- [35 Amazing Pencil Drawings](http://vandelaydesign.com/blog/galleries/pencil-drawings/)
+- [Connecting the dots: How my opinion made it into the New York Times today](http://feedproxy.google.com/~r/37signals/beMH/~3/D8WZOrC0Cc8/3234-connecting-the-dots-how-my-opinion-made-it-into-the-new-york-times-today)
+- [People that can "find the time"](http://feedproxy.google.com/~r/LessEverything/~3/tkVqcL7tPmc/)
+- [How My Parents Unknowingly Raised Me To Be An Entrepreneur](http://feedproxy.google.com/~r/LessEverything/~3/9BjNH_MfIKU/)
+- [Designers meet Pictos Server!](http://feedproxy.google.com/~r/LessEverything/~3/A20ePQ7w4Q4/)
