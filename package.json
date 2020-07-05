@@ -6,6 +6,7 @@
   "scripts": {
     "dev": ".vuepress/node_modules/.bin/vuepress dev",
     "build": ".vuepress/node_modules/.bin/vuepress build",
+    "serve": "cd .vuepress/dist && python -m SimpleHTTPServer 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

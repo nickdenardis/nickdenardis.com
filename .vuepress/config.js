@@ -9,18 +9,26 @@ module.exports = {
     [
       "@vuepress/blog",
       {
-        pagination: {
-          lengthPerPage: 2,
+        directories: [
+          {
+            // Unique ID of current classification
+            id: "post",
+            // Target directory
+            dirname: "_posts",
+            // Path of the `entry page` (or `list page`)
+            path: "/",
+            itemPermalink: '/:year/:month/:day/:slug',
+            pagination: {
+              lengthPerPage: 20,
+            },
+          },
+        ],
+        sitemap: {
+          hostname: "http://localhost:8080",
         },
-        // sitemap: {
-        //   hostname: "http://localhost:8080",
-        // },
-        // lobalPagination: {
-        //   lengthPerPage: 10,
-        // },
-        // feed: {
-        //   canonical_base: "http://localhost:8080",
-        // },
+        feed: {
+          canonical_base: "http://localhost:8080",
+        },
       },
     ],
   ],
