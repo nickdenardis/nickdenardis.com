@@ -25,7 +25,13 @@ module.exports = {
             perPagePosts: 3
           }
         },
-      ]
+      ],
+      sitemap: {
+        hostname: "http://localhost:8080",
+      },
+      feed: {
+        canonical_base: "http://localhost:8080",
+      }
     }],
   ],
 }
