@@ -10,8 +10,9 @@
     </main>
     <nav aria-label="Main">
       <ul>
-        <li>
-          <router-link to="/tag/">Tags</router-link>
+        <li v-for="page in $themeConfig.nav">
+          <a v-if="page.type === 'external'" :href="page.link">{{ page.text }}</a>
+          <router-link v-else class="page-link" :to="page.link">{{ page.text }}</router-link>
         </li>
       </ul>
     </nav>
@@ -27,6 +28,6 @@
 import GlobalLayout from "@app/components/GlobalLayout.vue";
 
 export default {
-  components: { DefaultGlobalLayout: GlobalLayout }
+  components: { DefaultGlobalLayout: GlobalLayout },
 };
 </script>

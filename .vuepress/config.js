@@ -1,5 +1,7 @@
 module.exports = {
   title: "Nick DeNardis",
+  description:
+    "User experience, code, higher education, analytics and accessibility.",
   plugins: [
     [
       "@vuepress/blog",
@@ -43,4 +45,16 @@ module.exports = {
       },
     ],
   ],
+  themeConfig: {
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "About Nick DeNardis", link: "/about/" },
+      { text: "Speaking", link: "/speaking-engagements/" },
+      {
+        text: "Twitter",
+        link: "https://twitter.com/nickdenardis",
+        type: "external",
+      },
+    ],
+  },
 };
