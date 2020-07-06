@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-blog": "latest",
+    "@vuepress/plugin-google-analytics": "^1.5.2",
     "vuepress": "next"
   }
 }
