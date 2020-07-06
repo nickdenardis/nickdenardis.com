@@ -1,5 +1,5 @@
 module.exports = {
-  title: '70 lines of vuepress blog theme',
+  title: 'Nick DeNardis',
   plugins: [
     ['@vuepress/blog', {
       directories: [
