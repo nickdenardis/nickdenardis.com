@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@css {
+    .content__default {
+        @apply .leading-6 .py-4
+    }
+   .content a { 
+        @apply .underline
+    }
+    .content a:hover {
+        @apply .no-underline
+    }
+    .content h2 {
+        @apply .text-3xl .mt-4 .mb-3
+    }
+    .content p {
+        @apply .my-4
+    }
+    .header-anchor {
+        @apply .hidden
+    }
+    .content h2:hover .header-anchor {
+        @apply .inline
+    }
+    footer {
+        @apply .text-center
+    }
+    footer ul {
+        @apply 
+    }
+}

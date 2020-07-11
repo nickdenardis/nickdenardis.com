@@ -47,14 +47,20 @@ module.exports = {
   ],
   themeConfig: {
     nav: [
-      { text: "Home", link: "/" },
       { text: "About Nick DeNardis", link: "/about/" },
       { text: "Speaking", link: "/speaking-engagements/" },
+      { text: "Feeds", link: "/feeds/" },
       {
         text: "Twitter",
         link: "https://twitter.com/nickdenardis",
         type: "external",
       },
+    ],
+  },
+  postcss: {
+    plugins: [
+      require("autoprefixer"),
+      require("tailwindcss")("./tailwind.config.js"),
     ],
   },
 };
