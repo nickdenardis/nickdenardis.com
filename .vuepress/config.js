@@ -2,6 +2,16 @@ module.exports = {
   title: "Nick DeNardis",
   description:
     "User experience, code, higher education, analytics and accessibility.",
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href:
+          "https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap",
+      },
+    ],
+  ],
   plugins: [
     [
       "@vuepress/blog",
