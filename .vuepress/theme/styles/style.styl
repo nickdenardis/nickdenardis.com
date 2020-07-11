@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @css {
-    .content__default {
-        @apply .leading-6 .py-4
+    .content {
+        @apply .leading-8 .py-4 .mx-4 .text-xl
     }
    .content a { 
         @apply .underline
@@ -16,7 +16,7 @@
         @apply .text-3xl .mt-4 .mb-3
     }
     .content p {
-        @apply .my-4
+        @apply .my-6
     }
     .header-anchor {
         @apply .hidden
@@ -29,5 +29,11 @@
     }
     footer ul {
         @apply 
+    }
+
+    @media (min-width: 1024px) {
+        .content__default {
+            @apply .mr-64
+        }
     }
 }

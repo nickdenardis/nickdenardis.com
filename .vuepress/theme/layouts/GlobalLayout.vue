@@ -1,8 +1,8 @@
 <template>
   <div class="container mx-auto">
-    <header>
+    <header class="mx-4">
       <h1 class="text-5xl">
-        <router-link to="/">{{ $site.title }}</router-link>
+        <router-link to="/" class="hover:underline">{{ $site.title }}</router-link>
       </h1>
     </header>
     <main class="content">
