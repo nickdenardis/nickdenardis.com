@@ -66,11 +66,20 @@ module.exports = {
     nav: [
       { text: "About Nick DeNardis", link: "/about/" },
       { text: "Accessibility", link: "/a11y/" },
-      { text: "Feeds", link: "/feeds/" },
+      { text: "/Feeds", link: "/feeds/" },
+    ],
+    social: [
       {
         text: "Twitter",
         link: "https://twitter.com/nickdenardis",
-        type: "external",
+      },
+      {
+        text: "Instagram",
+        link: "https://www.instagram.com/devhomeownership/",
+      },
+      {
+        text: "Github",
+        link: "https://github.com/nickdenardis/nickdenardis.com",
       },
     ],
   },
