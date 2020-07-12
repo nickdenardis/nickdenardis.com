@@ -1,4 +1,4 @@
-## Subscribe
+# Subscribe
 
 * [RSS](/rss.xml)
 * [Atom](/feed.atom)

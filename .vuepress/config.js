@@ -11,6 +11,13 @@ module.exports = {
           "https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap",
       },
     ],
+    [
+      "meta",
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1",
+      },
+    ],
   ],
   plugins: [
     [
@@ -58,7 +65,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "About Nick DeNardis", link: "/about/" },
-      { text: "Speaking", link: "/speaking-engagements/" },
+      { text: "Accessibility", link: "/a11y/" },
       { text: "Feeds", link: "/feeds/" },
       {
         text: "Twitter",
