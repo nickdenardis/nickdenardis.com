@@ -1,6 +1,8 @@
 <template>
   <div>
-    <Content />
+    <div class="max-w-4xl">
+      <Content />
+    </div>
     <nav aria-label="Paging" v-if="$pagination">
       <ul id="default-layout">
         <li v-for="page in $pagination.pages">

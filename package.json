@@ -11,6 +11,7 @@
     "serve": "cd .vuepress/dist && python -m SimpleHTTPServer 8080"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.2.0",
     "@vuepress/plugin-blog": "latest",
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "autoprefixer": "^9.8.5",

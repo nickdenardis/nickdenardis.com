@@ -1,8 +1,8 @@
 <template>
   <div class="container mx-auto">
     <SiteHeader />
-    <main class="content">
-      <DefaultGlobalLayout />
+    <main class="prose prose-xl min-w-full mx-6 lg:mx-4 my-10">
+        <DefaultGlobalLayout />
     </main>
     <SiteFooter />    
   </div>

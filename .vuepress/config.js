@@ -30,7 +30,7 @@ module.exports = {
             path: "/",
             itemPermalink: "/:year/:month/:day/:slug",
             pagination: {
-              perPagePosts: 10,
+              perPagePosts: 15,
             },
           },
         ],

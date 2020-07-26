@@ -1,7 +1,7 @@
 <template>
   <div>
-    <time v-text="postDate"></time>
     <h1 v-text="effectiveTitle"></h1>
+    <time v-text="postDate" class=""></time>
   </div>
 </template>
 
