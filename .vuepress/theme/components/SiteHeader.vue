@@ -5,7 +5,7 @@
         <p class="text-gray-700">{{ $site.description }}</p>
     </h1>
 
-    <nav aria-label="Main" class="md:self-center">
+    <nav aria-label="Main" class="md:self-center" id="nav">
       <ul class="list-none py-3">
         <li v-for="page in $themeConfig.nav" class="inline-block">
           <a v-if="page.type === 'external'" :href="page.link" class="p-4 pl-0 md:p-4 underline hover:no-underline">{{ page.text }}</a>

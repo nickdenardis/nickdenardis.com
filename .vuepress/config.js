@@ -30,7 +30,7 @@ module.exports = {
             path: "/",
             itemPermalink: "/:year/:month/:day/:slug",
             pagination: {
-              perPagePosts: 15,
+              lengthPerPage: 15,
             },
           },
         ],
@@ -60,7 +60,7 @@ module.exports = {
       {
         ga: "UA-2439165-1",
       },
-    ],
+    ]
   ],
   themeConfig: {
     nav: [
