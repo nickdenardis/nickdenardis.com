@@ -1,6 +1,6 @@
 <template>
   <header class="px-4 md:flex md:items-stretch md:justify-between">
-    <h1 class="md:flex-auto ">
+    <h1 class="md:flex-auto font-bold">
         <router-link to="/" class="text-5xl hover:underline">{{ $site.title }}</router-link>
         <p class="text-gray-700">{{ $site.description }}</p>
     </h1>
