@@ -48,10 +48,10 @@ module.exports = {
           },
         ],
         sitemap: {
-          hostname: "http://localhost:8080",
+          hostname: "https://nickdenardis.com",
         },
         feed: {
-          canonical_base: "http://localhost:8080",
+          canonical_base: "https://nickdenardis.com",
         },
       },
     ],
