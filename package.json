@@ -15,6 +15,7 @@
     "@vuepress/plugin-blog": "latest",
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "autoprefixer": "^9.8.5",
+    "moment": "^2.27.0",
     "tailwindcss": "^1.4.6",
     "vuepress": "next"
   }

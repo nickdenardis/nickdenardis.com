@@ -1,11 +1,13 @@
 <template>
-  <div>
+  <div class="text-center">
     <h1 v-text="effectiveTitle"></h1>
-    <time v-text="postDate" class=""></time>
+    <time v-text="postDate" v-bind:datetime="this.$frontmatter.date" class="inline-block border-b-4 border-gray-500 pb-4"></time>
   </div>
 </template>
 
 <script>
+import moment from "moment";
+
 export default {
   props: {
     title: String
@@ -15,7 +17,7 @@ export default {
       return this.title || this.$page.title;
     },
     postDate() {
-      return this.$frontmatter.date;
+      return moment(this.$frontmatter.date).format('MMMM Do, YYYY');
     }
   }
 };
