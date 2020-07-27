@@ -7,12 +7,14 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build",
+    "build": "vuepress build --debug",
     "serve": "cd .vuepress/dist && python -m SimpleHTTPServer 8080"
+  },
+  "dependencies": {
+    "@vue-a11y/skip-to": "^2.0.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.2.0",
-    "@vue-a11y/skip-to": "^2.0.1",
     "@vuepress/plugin-blog": "latest",
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "autoprefixer": "^9.8.5",

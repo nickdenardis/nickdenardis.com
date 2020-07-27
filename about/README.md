@@ -1,5 +1,15 @@
 # About Nick DeNardis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget risus ut nisl aliquam varius tincidunt id elit. Etiam volutpat commodo tellus et finibus. Vestibulum et mollis est. Etiam a nibh ut nisi accumsan aliquam. Nulla ornare tellus nec elit pulvinar, id dictum odio bibendum. Nam at est nisi. Curabitur cursus massa ex.
+[Nick DeNardis](https://twitter.com/nickdenardis) is a user experience professional from Detroit, MI.
 
-Sed eget erat et lacus imperdiet mattis in at turpis. Morbi at feugiat urna, quis viverra dolor. Sed efficitur ante sed varius placerat. Vestibulum quam nisl, hendrerit sed vestibulum quis, pharetra quis sem. Maecenas vitae sem ac diam aliquet vestibulum. Curabitur vestibulum ligula urna, ac dapibus est aliquam at. Nam sed leo volutpat, viverra nisi non, ultrices lacus. Phasellus finibus fermentum lorem vitae sollicitudin. Aenean suscipit tempor turpis, non sagittis arcu. Aenean vel varius purus. Donec dui odio, eleifend euismod eros at, aliquet faucibus lorem. Fusce at massa non metus dapibus porttitor.
+He currently oversees the Digital Communications team at [Wayne State University](https://wayne.edu/) and a guest instructor at the [University of Washington iSchool](https://ischool.uw.edu).
+
+[Certified Professional in Web Accessibility](https://www.accessibilityassociation.org/cpwa) with the CPACC and WAS credentials from IAAP.
+
+An avid runner who has run two marathons, many halves, and an average of 3 miles per day. Love the [art of maintenance](https://www.instagram.com/devhomeownership/), minimalism, and sustainability.
+
+A conference organizer for [TEDxDetroit](https://tedxdetroit.com), [AMA Higher Education](https://www.ama.org/events/conference/2020-ama-symposium-for-the-marketing-of-higher-education-november-15-18-chicago/), and previously [HighEdWeb regionals](https://www.highedweb.org/).
+
+Meetup organizer for [Refresh Detroit](https://refreshdetroit.org/) and previously [Laravel Detroit](https://twitter.com/detroitlaravel).
+
+Formally an [avid conference speaker](https://speakerdeck.com/nickdenardis), [EDU Checkup](https://educheckup.com) host, and [blogger](https://blogs.wayne.edu/web/).

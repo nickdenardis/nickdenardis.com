@@ -1,3 +1,4 @@
+
 import VueSkipTo from '@vue-a11y/skip-to';
 
 export default ({
