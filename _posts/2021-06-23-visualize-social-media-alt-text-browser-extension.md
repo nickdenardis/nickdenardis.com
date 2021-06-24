@@ -78,6 +78,12 @@ Any image without alt text applied, a red line will show below the image.
 |--------|--------|
 | ![Single image post with alt text underneith](https://nickdenardis.github.io/social-visual-alt-text/assets/facebook-example-single-image.png) | ![Single image post with alt text underneith, older interface](https://nickdenardis.github.io/social-visual-alt-text/assets/facebook-example-single-image-ai.png)
 
+## Tweetdeck examples
+
+| Photo with alt | Photo without alt |
+|--------|--------|
+| ![Three columns of images, the first with alt text, second without and third GIF without](https://nickdenardis.github.io/social-visual-alt-text/assets/tweetdeck-example-three-column-images.png) | ![Tweetdeck modal with a single image showing alt text below](https://nickdenardis.github.io/social-visual-alt-text/assets/tweetdeck-example-modal-image.png)
+
 ## Options
 
 ![Options modal showing Twitter image and GIF settings](https://nickdenardis.github.io/social-visual-alt-text/assets/extension-options.png)
