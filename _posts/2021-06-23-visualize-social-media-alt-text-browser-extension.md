@@ -103,3 +103,11 @@ Lastly, after coming up with a solution, I did come across [another extension th
 I've been building this extension in the public on [GitHub](https://github.com/nickdenardis/social-visual-alt-text) and [posting updates on Twitter](https://twitter.com/nickdenardis). I'm looking for feedback and on what's working, what isn't working and what would be helpful for you, regardless of how far-fetched it seems. Tag me on Twitter, my DM's are also open or [put in a feature or bug request on Github](https://github.com/nickdenardis/social-visual-alt-text/issues).
 
 I'm hoping to continue building out functionality and refine the code to ensure it is as performant as possible and keeps up with the various user interface changes constantly rolling out to the social media sites.
+
+## Subscribe for updates
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/nickdenardis?as_embed=true"
+></iframe><br /><br />
