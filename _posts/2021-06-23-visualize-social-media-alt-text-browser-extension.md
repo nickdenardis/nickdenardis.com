@@ -30,7 +30,7 @@ As a sighted user it is not easy to determine the alt text for an image. It requ
 
 There are a few existing solutions out there, the [Web Developer toolbar](https://chrome.google.com/webstore/detail/image-alt-text-viewer/nhmihbneenlkbjjpbimhegikadfleccd ) allows you to turn on alt text for all images, but it doesn’t work past the first Twitter screen with its infinite scrolling.
 
-There is a [bookmarklet to display alt text](https://adrianroselli.com/2015/01/css-bookmarklets-for-testing-and-fixing.html#NewTwitterAlt) on static pages, but again it don’t work well with infinite scrolling pages.
+There is a [bookmarklet to display alt text](https://adrianroselli.com/2015/01/css-bookmarklets-for-testing-and-fixing.html#NewTwitterAlt) on static pages, but again it doesn't work well with infinite scrolling pages.
 
 There is also [specialized Chrome extension](https://chrome.google.com/webstore/detail/image-alt-text-viewer/nhmihbneenlkbjjpbimhegikadfleccd) to do the same thing. But again, it does not continue to show the text as you scroll down the page.
 

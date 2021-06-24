@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "serve": "cd .vuepress/dist && python -m SimpleHTTPServer 8080"
+    "serve": "cd .vuepress/dist && python -m SimpleHTTPServer 8080",
+    "deploy": "./deploy.sh"
   },
   "dependencies": {
     "@vue-a11y/skip-to": "^2.0.1"
