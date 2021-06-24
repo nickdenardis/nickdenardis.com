@@ -48,9 +48,9 @@ Once installed, the extension will display the alt text to sighted users on the 
 - [x] Twitter images
 - [x] Twitter GIFs
 - [x] Facebook (experimental, single-image posts working)
-- [x]  Instagram (experimental, single-image posts working)
+- [x] Instagram (experimental, single-image posts working)
+- [x] Tweetdeck (experimental, single-image posts working)
 - [ ] LinkedIn
-- [ ] Tweetdeck
 
 By default, the extension will show the alternate text for any Twitter, Facebook or Instagram image or GIF below the image with a blue background.
 
