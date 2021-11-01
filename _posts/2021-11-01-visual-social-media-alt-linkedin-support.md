@@ -15,17 +15,17 @@ The following situations are now available:
 
 | With alt | Without alt |
 |--------|--------|
-| ![Single screenshot of post with green box under and alt text visible](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-linkedin-alt.png) | ![Single screenshot of post with red box under image](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-linkedin-no-alt.png) |
+| ![Single screenshot of post with green box under and alt text visible](/images/social-visual-linkedin-alt.png) | ![Single screenshot of post with red box under image](/images/social-visual-linkedin-no-alt.png) |
  
 ## Machine-generated alt
 
-![Single screenshot of post with alternate color bar under photo](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-linkedin-machine-alt.png)
+![Single screenshot of post with alternate color bar under photo](/images/social-visual-linkedin-machine-alt.png)
 
 ## Multiple images
 
 | With alt | Without alt |
 |--------|--------|
-| ![Single screenshot of post with multiple images and red color bar under photo](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-linkedin-multiple-alt.png) | ![Single screenshot of post with multiple images and alternate color bar under photo](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-linkedin-multiple-no-alt.png) |
+| ![Single screenshot of post with multiple images and red color bar under photo](/images/social-visual-linkedin-multiple-alt.png) | ![Single screenshot of post with multiple images and alternate color bar under photo](/images/social-visual-linkedin-multiple-no-alt.png) |
 
 ## Existing users
 
@@ -33,7 +33,7 @@ If you already have the extension installed, you will be propted after it update
 
 | Chrome | Firefox |
 |--------|--------|
-| ![Chrome permissions dialog to accept LinkedIn addition](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-chrome-permissions.png) | ![Firefox permissions dialog to accept LinkedIn addition](https://nickdenardis.github.io/social-visual-alt-text/assets/social-visual-firefox-permissions.png) | 
+| ![Chrome permissions dialog to accept LinkedIn addition](/images/social-visual-chrome-permissions.png) | ![Firefox permissions dialog to accept LinkedIn addition](/images/social-visual-firefox-permissions.png) | 
 
 ## Feedback and feature requests
 
