@@ -7,7 +7,7 @@ TLDR; Download the [Chrome extension](https://chrome.google.com/webstore/detail/
 
 ## LinkedIn support
 
-With the update to Version 0.7.0 the social visual alt text browser extension now supports LinkedIn single and multiple images. Initial support for images with detection if the image text is machine-generated (when detectable). 
+With the update to version 0.7.0 the social visual alt text browser extension now supports LinkedIn single and multiple images. Initial support for images with detection if the image text is machine-generated (when detectable). 
 
 The following situations are now available:
 
@@ -29,7 +29,7 @@ The following situations are now available:
 
 ## Existing users
 
-If you already have the extension installed, you will be propted after it updates to accept the new permissions for LinkedIn. This isn't ideal, but while rolling out the extension I wanted to make sure I only asked for the permissions needed and not overly as for detecting and editing sites that were not yet supported.
+If you already have the extension installed, you will be prompted after it updates to accept the new permissions for LinkedIn. This isn't ideal, but while rolling out the extension I wanted to make sure I only asked for the permissions needed and not overly as for detecting and editing sites that were not yet supported.
 
 | Chrome | Firefox |
 |--------|--------|
