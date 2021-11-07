@@ -16,7 +16,7 @@ git commit -m 'deploy'
 
 # Force push to the "publishing source" of your GitHub pages site
 # in this case, the gh-pages branch
-git push -f git@github.com:nickdenardis/nickdenardis.com.git master:gh-pages
+git push -f git@github.com:nickdenardis/nickdenardis.com.git main:gh-pages
 
 # Back to previous directory (the root of your repo)
 cd -
