@@ -2,7 +2,7 @@
 
 [Nick DeNardis](https://twitter.com/nickdenardis) is a user experience professional from Detroit, MI.
 
-He currently oversees the Digital Communications team at [Wayne State University](https://wayne.edu/) and a guest instructor at the [University of Washington iSchool](https://ischool.uw.edu).
+He currently oversees the Digital Communications team at [Wayne State University](https://wayne.edu/), a guest instructor at the [University of Washington iSchool](https://ischool.uw.edu), and creator of the [O'Reilly Introduction to User Experience Design course](https://www.oreilly.com/library/view/introduction-to-user/9780137534463/)
 
 [Certified Professional in Web Accessibility](https://www.accessibilityassociation.org/cpwa) with the CPACC and WAS credentials from IAAP.
 
