@@ -6,7 +6,7 @@ date: "2021-11-08"
 <div class="row -mx-4 pt-4 md:flex">
     <div class="md:w-2/3 px-4">
         <p>
-        I’m happy to announce the availability of a user experience course that I’ve been working on with <a href="https://www.pearson.com/">Pearson</a> and <a href="https://www.oreilly.com">O’Reilly</a>! The goal is to make an introductory UX course that is approachable and touches on each area of UX with the goal of being able make your product/service/team 1% better each day.
+        I’m happy to announce the availability of a user experience course that I’ve been working on with <a href="https://www.pearson.com/">Pearson</a> and <a href="https://www.oreilly.com">O’Reilly Media</a>! The goal is to make an introductory UX course that is approachable and touches on each area of UX with the goal of being able make your product/service/team 1% better each day.
         </p>
         <p>
             ➡️ <a href="https://www.oreilly.com/library/view/introduction-to-user/9780137534463/">Jump straight into the course</a> <br />
@@ -158,3 +158,11 @@ Each of the sections above have a 1-minute preview and [O’Reilly is currently 
 ## Feedback
 
 If there is something you would like to see covered more/less or if you have any feedback on the contents of the course or how anything is presented or covered, reach out to me on [Twitter @nickdenardis](https://twitter.com/nickdenardis) as I’m always looking to improve and evolve the material over time.
+
+## Subscribe for updates
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/nickdenardis?as_embed=true"
+></iframe>

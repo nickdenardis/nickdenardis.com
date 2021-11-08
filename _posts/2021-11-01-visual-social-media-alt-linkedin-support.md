@@ -46,5 +46,5 @@ I'm hoping to continue building out functionality and refine the code to ensure 
 <iframe
 scrolling="no"
 style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/nickdenardis?as_embed=true"
+src="https://buttondown.email/social-visual-alt-text?as_embed=true"
 ></iframe><br /><br />

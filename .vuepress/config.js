@@ -66,6 +66,7 @@ module.exports = {
     nav: [
       { text: "About Nick DeNardis", link: "/about/" },
       { text: "Accessibility", link: "/a11y/" },
+      { text: "User experience", link: "/2021/11/08/introduction-to-user-experience-course/" },
       { text: "/Feeds", link: "/feeds/" },
     ],
     social: [
