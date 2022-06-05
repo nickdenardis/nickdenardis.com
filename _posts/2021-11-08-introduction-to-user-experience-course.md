@@ -9,8 +9,8 @@ date: "2021-11-08"
         I’m happy to announce the availability of a user experience course that I’ve been working on with <a href="https://www.pearson.com/">Pearson</a> and <a href="https://www.oreilly.com">O’Reilly Media</a>! The goal is to make an introductory UX course that is approachable and touches on each area of UX with the goal of being able make your product/service/team 1% better each day.
         </p>
         <p>
-            ➡️ <a href="https://www.oreilly.com/library/view/introduction-to-user/9780137534463/">Jump straight into the course</a> <br />
-            🆓 <a href="https://www.oreilly.com/online-learning/try-now.html">Start a free O'Reilly trial</a>
+            ➡️ <a href="https://www.oreilly.com/videos/introduction-to-user/9780137534463/">Jump straight into the course</a> <br />
+            🆓 <a href="https://learning.oreilly.com/p/register/">Start a free O'Reilly trial</a>
         </p>
     </div>
     <div class="md:w-1/3 px-4">
@@ -42,8 +42,8 @@ Whether you have created digital experiences for users in the past or this is yo
 
 Lesson 1: Understand Core Concepts of User Experience 
 
-- [1.1 Dive into terms](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_01/)
-- [1.2 Understand the technology, business, and design of UX ](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_02/)
+- [1.1 Dive into terms](https://learning.oreilly.com/library/view/introduction-to-user/9780137534463/chapter-UED1_01_01_01-5)
+- [1.2 Understand the technology, business, and design of UX ](https://learning.oreilly.com/library/view/introduction-to-user/9780137534463/chapter-UED1_01_01_02-6)
 - [1.3 Explore roles and responsibilities](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_03/)
 - [1.4 Get into the UX mindset](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_04/)
 
