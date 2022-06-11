@@ -42,8 +42,8 @@ Whether you have created digital experiences for users in the past or this is yo
 
 Lesson 1: Understand Core Concepts of User Experience 
 
-- [1.1 Dive into terms](https://learning.oreilly.com/library/view/introduction-to-user/9780137534463/chapter-UED1_01_01_01-5)
-- [1.2 Understand the technology, business, and design of UX ](https://learning.oreilly.com/library/view/introduction-to-user/9780137534463/chapter-UED1_01_01_02-6)
+- [1.1 Dive into terms](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_01/)
+- [1.2 Understand the technology, business, and design of UX ](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_02/)
 - [1.3 Explore roles and responsibilities](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_03/)
 - [1.4 Get into the UX mindset](https://learning.oreilly.com/videos/introduction-to-user/9780137534463/9780137534463-UED1_01_01_04/)
 
