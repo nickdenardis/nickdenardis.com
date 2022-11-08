@@ -9,12 +9,12 @@ date: "2021-11-08"
         I’m happy to announce the availability of a user experience course that I’ve been working on with <a href="https://www.pearson.com/">Pearson</a> and <a href="https://www.oreilly.com">O’Reilly Media</a>! The goal is to make an introductory UX course that is approachable and touches on each area of UX with the goal of being able make your product/service/team 1% better each day.
         </p>
         <p>
-            ➡️ <a href="https://www.oreilly.com/videos/introduction-to-user/9780137534463/">Jump straight into the course</a> <br />
+            ➡️ <a href="https://click.linksynergy.com/link?id=rzfouQjFlAY&offerid=145238.3107017&type=2&murl=https%3A%2F%2Fwww.informit.com%2Ftitle%2F9780137534494">Introduction to User Experience Design LiveLessons (Video Training)</a><img  width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=rzfouQjFlAY&bids=145238.3107017&type=2&subid=0" ><br />
             🆓 <a href="https://learning.oreilly.com/p/register/">Start a free O'Reilly trial</a>
         </p>
     </div>
     <div class="md:w-1/3 px-4">
-        <img src="/images/ux-design-cover.jpg" alt="Cover of the course preview with course title and live sessions designation" class="m-0">
+        <a href="https://click.linksynergy.com/link?id=rzfouQjFlAY&offerid=145238.3107017&type=2&murl=https%3A%2F%2Fwww.informit.com%2Ftitle%2F9780137534494"><img src="/images/ux-design-cover.jpg" alt="Cover of the course preview with course title and live sessions designation" class="m-0"></a>
     </div>
 </div>
 
