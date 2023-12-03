@@ -6,8 +6,8 @@
   "author": "Nick DeNardis <nick.denardis@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build",
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build",
     "serve": "cd .vuepress/dist && python3 -m http.server 8080",
     "deploy": "./deploy.sh"
   },

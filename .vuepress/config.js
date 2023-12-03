@@ -82,6 +82,10 @@ module.exports = {
         text: "Github",
         link: "https://github.com/nickdenardis/nickdenardis.com",
       },
+      {
+        text: "Mastodon",
+        link: "https://indieweb.social/@nickdenardis",
+      }
     ],
   },
   postcss: {
