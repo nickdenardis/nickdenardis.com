@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nickdenardis.com</id>
+    <title>Nick DeNardis</title>
+    <updated>2023-12-03T12:33:16.649Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://nickdenardis.com"/>
+    <link rel="self" href="https://nickdenardis.com/feed.atom"/>
+    <subtitle>User experience, code, higher education, analytics and accessibility.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Time for a new computer]]></title>
+        <id>https://nickdenardis.com/2006/10/01/time-for-a-new-computer/</id>
+        <link href="https://nickdenardis.com/2006/10/01/time-for-a-new-computer/">
+        </link>
+        <updated>2006-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So i broke down today and i bought a new computer. Well it is going to replace my current first generation Mac Mini G4 1.42 Ghz. Basically i found myself pretty much waiting 60% of the time instead of programming. Just having Eclipse, Photoshop, Apache, Firefox and iTunes open grinds this little machine to a halt. My solution yesterday was to just remote into my work machine and do all my work on that, it worked well but it is not a permanent solution. With my mom getting a new 20” iMac and the new Intel chips smoking the pants off the PowerPC chips i needed to upgrade. Also this will allow me to get rid of my Windows box for good, i will be running Parallels for any future Windows needs. The setup i ordered is not like super awesome impressive but it will do for now.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Groups Beta... Impressed.]]></title>
+        <id>https://nickdenardis.com/2006/10/05/google-groups-beta-impressed/</id>
+        <link href="https://nickdenardis.com/2006/10/05/google-groups-beta-impressed/">
+        </link>
+        <updated>2006-10-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl - An Introduction]]></title>
+        <id>https://nickdenardis.com/2006/10/20/phpsimpl-an-introduction/</id>
+        <link href="https://nickdenardis.com/2006/10/20/phpsimpl-an-introduction/">
+        </link>
+        <updated>2006-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPSimpl is a a PHP framework for rapidly creating classes that mirror MySQL tables. The framework comes with the basic functions to list, display and edit records from the database. With this framework a simple manager and front of a site can be created within a few minutes. An example database, manager and front end are included with the framework.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy Project Going Good.]]></title>
+        <id>https://nickdenardis.com/2006/10/15/proxy-project-going-good/</id>
+        <link href="https://nickdenardis.com/2006/10/15/proxy-project-going-good/">
+        </link>
+        <updated>2006-10-15T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy Midterm Update]]></title>
+        <id>https://nickdenardis.com/2006/11/05/proxy-midterm-update/</id>
+        <link href="https://nickdenardis.com/2006/11/05/proxy-midterm-update/">
+        </link>
+        <updated>2006-11-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl Examples]]></title>
+        <id>https://nickdenardis.com/2006/11/05/phpsimpl-examples/</id>
+        <link href="https://nickdenardis.com/2006/11/05/phpsimpl-examples/">
+        </link>
+        <updated>2006-11-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just added, Output individual fields]]></title>
+        <id>https://nickdenardis.com/2006/12/08/just-added-output-individual-fields/</id>
+        <link href="https://nickdenardis.com/2006/12/08/just-added-output-individual-fields/">
+        </link>
+        <updated>2006-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So PHP Simpl does a good job of outputting an XHTML form with very extend able features such as labels, required \*’s, size and maxlength calculation, example and error output automatically. But have you ever just wanted to output the form in your own way? Well now you can, this can be accomplished with the FormField() function inside the DbTemplate class. It handles all that same great XHTML formatting, you just have to worry about where you want to flied to be displayed.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl Join() jumps into action]]></title>
+        <id>https://nickdenardis.com/2006/12/08/phpsimpl-join-jumps-into-action/</id>
+        <link href="https://nickdenardis.com/2006/12/08/phpsimpl-join-jumps-into-action/">
+        </link>
+        <updated>2006-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a sample code snipit of joining the Registration, User and Payments tables to view information all in one list with one query:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New PHPSimpl caching system]]></title>
+        <id>https://nickdenardis.com/2007/02/18/new-phpsimpl-caching-system/</id>
+        <link href="https://nickdenardis.com/2007/02/18/new-phpsimpl-caching-system/">
+        </link>
+        <updated>2007-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This also brings up the situation where possibly all the queries on the page are found in cache and we got to thinking why even bother connecting to the database unless we really need to. So Simpl now will not connect to the database until the first query comes by that could not be found in cache. We have found that this also improves performance especially if the database is on a separate machine. There is only one downside to this addition, when calling $db->Connect() it will always return true since it just stores the database information and waits for the first query, you will no longer be able to check on connect if the database is available or not, it will always look available.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Sessions in a Load Balanced Environment]]></title>
+        <id>https://nickdenardis.com/2007/03/10/php-sessions-in-a-load/</id>
+        <link href="https://nickdenardis.com/2007/03/10/php-sessions-in-a-load/">
+        </link>
+        <updated>2007-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[// Simpl Framework
+    include\once(FS\SIMPL . 'simpl.php');]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A More Centered API]]></title>
+        <id>https://nickdenardis.com/2007/04/08/a-more-centered-api/</id>
+        <link href="https://nickdenardis.com/2007/04/08/a-more-centered-api/">
+        </link>
+        <updated>2007-04-08T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl 0.8.0 Beta 1 Released]]></title>
+        <id>https://nickdenardis.com/2007/04/18/phpsimpl-080-beta-1-released/</id>
+        <link href="https://nickdenardis.com/2007/04/18/phpsimpl-080-beta-1-released/">
+        </link>
+        <updated>2007-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first beta PHPSimpl has been released to the public. You may be wondering why we decided to start at 0.8, well we have put together a Version History in the wiki and also a short Road Map. We have been using some form of a DbTemplate at WSU for a while now it just has not been public. Over the past two years it has continued to grow and strengthen. After submitting it to google code initially we knew it still needed some work and we took on the challenge of creating a solid framework that could be easily implemented and rapidly create applications with minimal configuration.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiplication]]></title>
+        <id>https://nickdenardis.com/2007/04/17/multiplication/</id>
+        <link href="https://nickdenardis.com/2007/04/17/multiplication/">
+        </link>
+        <updated>2007-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[}
+}]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl 0.8.0 Final Released]]></title>
+        <id>https://nickdenardis.com/2007/05/12/phpsimpl-080-final-released/</id>
+        <link href="https://nickdenardis.com/2007/05/12/phpsimpl-080-final-released/">
+        </link>
+        <updated>2007-05-12T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl 0.8.0 RC1 Released]]></title>
+        <id>https://nickdenardis.com/2007/04/26/phpsimpl-080-rc1-released/</id>
+        <link href="https://nickdenardis.com/2007/04/26/phpsimpl-080-rc1-released/">
+        </link>
+        <updated>2007-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPSimpl 0.8.0 is feature complete and is posted on Google Code. The release candidate will be up for about a week and we will not be adding any more features or API changes. We are only concerted with bug fixed and security issues. Please download it if you are interested in giving it a try and let us know what you think. The final will be out in about a week and we are hoping to have a more feature complete example in it.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stress testing a site with Apache's ab tool, part 1]]></title>
+        <id>https://nickdenardis.com/2007/06/27/stress-testing-a-site-with/</id>
+        <link href="https://nickdenardis.com/2007/06/27/stress-testing-a-site-with/">
+        </link>
+        <updated>2007-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ab http://example.com/search.php?q=Trees]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPSimpl 0.8.1 Maintenance Update]]></title>
+        <id>https://nickdenardis.com/2007/06/27/phpsimpl-081-maintenance-update/</id>
+        <link href="https://nickdenardis.com/2007/06/27/phpsimpl-081-maintenance-update/">
+        </link>
+        <updated>2007-06-27T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Things Done.]]></title>
+        <id>https://nickdenardis.com/2007/07/15/getting-things-done/</id>
+        <link href="https://nickdenardis.com/2007/07/15/getting-things-done/">
+        </link>
+        <updated>2007-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Time has been flying. We have under a year now till the wedding and I have really been trying to get alot of things out of the way and on the right track.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making web development fun again]]></title>
+        <id>https://nickdenardis.com/2007/07/06/making-web-development-fun-again/</id>
+        <link href="https://nickdenardis.com/2007/07/06/making-web-development-fun-again/">
+        </link>
+        <updated>2007-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Of course PHPSimpl has been a good release for me, it has really given me an outlet to expand my knowledge and take pride in building something that benefits more than just my development life. I am not stopping development on PHPSimpl, actually I think my additions and bug fixes will get increasingly quicker and better. I cannot leave PHP behind because the web is currently pretty much glued together with it.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IP Changed :-?]]></title>
+        <id>https://nickdenardis.com/2007/07/17/ip-changed/</id>
+        <link href="https://nickdenardis.com/2007/07/17/ip-changed/">
+        </link>
+        <updated>2007-07-17T00:00:00.000Z</updated>
+    </entry>
+</feed>
