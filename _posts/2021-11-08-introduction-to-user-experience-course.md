@@ -9,7 +9,6 @@ date: "2021-11-08"
         I’m happy to announce the availability of a user experience course that I’ve been working on with <a href="https://www.pearson.com/">Pearson</a> and <a href="https://www.oreilly.com">O’Reilly Media</a>! The goal is to make an introductory UX course that is approachable and touches on each area of UX with the goal of being able make your product/service/team 1% better each day.
         </p>
         <p>
-            ➡️ <a href="https://click.linksynergy.com/link?id=rzfouQjFlAY&offerid=145238.3107017&type=2&murl=https%3A%2F%2Fwww.informit.com%2Ftitle%2F9780137534494">Introduction to User Experience Design LiveLessons (Purchase course)</a><img  width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=rzfouQjFlAY&bids=145238.3107017&type=2&subid=0" ><br />
             ⏯️ <a href="https://www.oreilly.com/library/view/introduction-to-user/9780137534463/">Introduction to User Experience Design LiveLessons (O'Reilly subscription)</a><br />
             🆓 <a href="https://learning.oreilly.com/p/register/">Start a free O'Reilly trial</a>
         </p>
@@ -162,8 +161,4 @@ If there is something you would like to see covered more/less or if you have any
 
 ## Subscribe for updates
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/nickdenardis?as_embed=true"
-></iframe>
+<iframe src="https://nickdenardis.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
