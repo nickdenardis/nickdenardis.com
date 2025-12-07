@@ -66,13 +66,14 @@ module.exports = {
     nav: [
       { text: "About Nick DeNardis", link: "/about/" },
       { text: "Accessibility", link: "/a11y/" },
-      { text: "User experience", link: "/2021/11/08/introduction-to-user-experience-course/" },
+      { text: "UX Feedback app", link: "https://ux-feedback.app" },
+      { text: "UX Course", link: "/2021/11/08/introduction-to-user-experience-course/" },
       { text: "/Feeds", link: "/feeds/" },
     ],
     social: [
       {
         text: "Twitter",
-        link: "https://twitter.com/nickdenardis",
+        link: "https://x.com/nickdenardis",
       },
       {
         text: "Instagram",
